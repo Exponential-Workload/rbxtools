@@ -3,7 +3,7 @@
 Lets you open multiple Roblox windows - Open Source
 
 ## Installation
-**[multirbx.zip](https://github.com/YieldingExploiter/rbxtools/releases/download/multirbx/multirbx.zip)**: Download, then Extract all and run MultiRBX.exe in the extracted folder
+**[multirbx.zip](https://github.com/YieldingExploiter/rbxtools/releases/download/multirbx/multirbx.zip)**: Download, then Extract all and run MultiRBX.exe in the extracted folder<br/>
 **[multirbx.exe](https://github.com/YieldingExploiter/rbxtools/releases/download/multirbx/multirbx.zip)**: Download and Run
 
 ## Usage
