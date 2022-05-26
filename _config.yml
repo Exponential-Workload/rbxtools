@@ -1,0 +1,3 @@
+remote_theme: mokiycodes/cayman
+plugins:
+  - jekyll-remote-theme
